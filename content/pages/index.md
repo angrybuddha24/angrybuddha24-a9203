@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Karthick Srinivasan.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: "A passionate Test Engineer who loves to automate anything and everything.\r\nAn aspiring Full Stack Developer.\n"
   - section_id: about
     type: section_content
     title: About
