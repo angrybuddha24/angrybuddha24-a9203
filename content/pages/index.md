@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Karthick Srinivasan.'
-    content: "A passionate Test Engineer who loves to automate anything and everything.\r\nAn aspiring Full Stack Developer.\n"
+    content: "A passionate Test Engineer who loves test software and automate anything and everything.\r\nAn aspiring Full Stack Developer.\n"
   - section_id: about
     type: section_content
     title: About
