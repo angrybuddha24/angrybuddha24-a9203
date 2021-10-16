@@ -10,12 +10,11 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >+
-      A passionate Test Engineer who loves test software and automate anything
-      and everything.
+    content: >
+      I am a passionate Tester who believes in the mantra "Quality > Quantity".
+      I love automating anything and everything.
 
-      An aspiring Full Stack Developer.
-
+      Also, I am an aspiring Full Stack Developer.
     actions:
       - label: Contact Me
         url: /contact
