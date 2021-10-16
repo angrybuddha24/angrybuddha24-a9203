@@ -17,7 +17,7 @@ sections:
       Also, I am an aspiring Full Stack Developer.
     actions:
       - label: Contact Me
-        url: /contact
+        url: /
         style: button
   - section_id: recent-posts
     type: section_posts
